@@ -1,0 +1,49 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary files
+/tmp/
+*.tmp
+*.log
+
+# Graphics output
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+!docs/**/*.png
+!docs/**/*.jpg
